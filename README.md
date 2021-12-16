@@ -2,7 +2,7 @@
 
 ## Nela será abordado
 - **Parte 1: O que é API**
--- O que é API
+-- O que é API <br>
 -- Tipos de API
 -- Documentação sobre APIs
 - **Parte 2: API de pokemon utilizando a [PokéAPI](https://pokeapi.co/)**
