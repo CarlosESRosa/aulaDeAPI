@@ -34,50 +34,50 @@
 
 ## Do 0 ao pokémon na tela
 
-### Ato 1 - Aprender sobre como usar a API
+#### Ato 1 - Aprender sobre como usar a API
 - API de pokémon
 - O que é um endpoint 
 - Estudar o objeto que a API retorna
 
-##### Ato 2 - Criar uma função para consumir a API
+#### Ato 2 - Criar uma função para consumir a API
 - Breve descrição sobre Função assíncrona
 - Criar a função fetchAPI que deve retornar os dados do pokémon passado como parâmetro
 
-##### Ato 3 - Colocar o pokémon na tela
+#### Ato 3 - Colocar o pokémon na tela
 - Mostrar que mesmo tendo pego a API corretamente,  ainda é necessário outro async await para usar o resultado
 - Capturar o HTML
 - substituir os dados do HTML pelos dados do pokemon <br><br>
 
 ## Do 0 ao computador na tela
 
-##### Ato 1 - Aprender sobre como usar a API
+#### Ato 1 - Aprender sobre como usar a API
 - API do mercado livre
 - acessar a API com o endpoint computador
 - Estudar o objeto que a API retorna
 
-##### Ato 2 - Criar uma função para consumir a API
+#### Ato 2 - Criar uma função para consumir a API
 - Criar a função fetchAPI que deve retornar os dados dos computadores 
 
-##### Ato 3 - Colocar o primeiro computador do array na tela
+#### Ato 3 - Colocar o primeiro computador do array na tela
 - Montar o html
 - Capturar o DOM
 - Montar o computador na tela titulo, preco, imagem <br><br>
 
 ## Studio Ghibli
 
-##### Ato 1 - Função para retornar os filmes
+#### Ato 1 - Função para retornar os filmes
 - https://ghibliapi.herokuapp.com/films
 - Função fetchAPI utilizando o endpoint para retornar todos os filmes
 
-##### Ato 2 - Função para criar filmCard
+#### Ato 2 - Função para criar filmCard
 - essa função deve receber um parâmetro
 - criar um container com a classe filmCard
 - esse container deve ter um o título e uma imagem
 - montar seu container recebendo como filhos o título e a imagem do filme passado como parâmetro e retornar esse container
 
-##### Ato 3 - Carregar os FilmCards na tela de forma dinâmica 
+#### Ato 3 - Carregar os FilmCards na tela de forma dinâmica 
 - Essa função recebe como parâmetro os dados retornados pela API com todos os filmes
 - Percorre esses dados e para cada filme, monta ele no formato FilmCard e adiciona na tela 
 
-###### Ato 4 - Monta toda a estrutura de filmes antes de carregar a página
+##### Ato 4 - Monta toda a estrutura de filmes antes de carregar a página
 
