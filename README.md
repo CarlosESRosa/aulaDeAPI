@@ -18,7 +18,7 @@
   - Função para retornar os filmes 
   - Função para criar filmCard 
   - Carregar os FilmCards na tela de forma dinâmica  
-
+<br>
 ## O que é API
 
 Minha visão: Uma API é um endereço, quando você requere uma API você recebe as informações que ela tem para te oferecer, uma API é um conjunto de dados. Existem 3 tipos de API: 
