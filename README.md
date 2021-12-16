@@ -17,7 +17,7 @@
   - Aprendendo a utilizar a API 
   - Função para retornar os filmes 
   - Função para criar filmCard 
-  - Carregar os FilmCards na tela de forma dinâmica  <br><br><br><br>
+  - Carregar os FilmCards na tela de forma dinâmica  <br><br>
  
 ## O que é API
 
