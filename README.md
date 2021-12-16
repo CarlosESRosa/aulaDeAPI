@@ -5,19 +5,19 @@
   - O que é API 
   - Tipos de API 
   - Documentação sobre APIs
-- **Parte 2: API de pokemon utilizando a [PokéAPI](https://pokeapi.co/)** <br>
--- Aprendendo a utilizar a API <br>
--- Criar uma função para consumir a API <br>
--- Colocar o pokémon na tela <br>
-- **Parte 3: API do Mercado Livre utilizando o [endpoint utilizado](https://api.mercadolibre.com/sites/MLB/search?q=computador)** <br>
--- Aprendendo a utilizar a API <br>
--- Criar uma função para consumir a API <br>
--- Colocar o primeiro computador do array na tela <br>
-- **Parte 4: API do Studio Ghibli utilizando a [Studio Ghibli API](https://ghibliapi.herokuapp.com/)** <br>
--- Aprendendo a utilizar a API <br>
--- Função para retornar os filmes <br>
--- Função para criar filmCard <br>
--- Carregar os FilmCards na tela de forma dinâmica  <br>
+- **Parte 2: API de pokemon utilizando a [PokéAPI](https://pokeapi.co/)** 
+  - Aprendendo a utilizar a API 
+  - Criar uma função para consumir a API 
+  - Colocar o pokémon na tela 
+- **Parte 3: API do Mercado Livre utilizando o [endpoint utilizado](https://api.mercadolibre.com/sites/MLB/search?q=computador)** 
+  - Aprendendo a utilizar a API 
+  - Criar uma função para consumir a API 
+  - Colocar o primeiro computador do array na tela 
+- **Parte 4: API do Studio Ghibli utilizando a [Studio Ghibli API](https://ghibliapi.herokuapp.com/)** 
+  - Aprendendo a utilizar a API 
+  - Função para retornar os filmes 
+  - Função para criar filmCard 
+  - Carregar os FilmCards na tela de forma dinâmica  
 
 ## O que é API
 
