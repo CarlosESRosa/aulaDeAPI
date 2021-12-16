@@ -1,7 +1,7 @@
 # Esta é uma aula organizada por Carlos Rosa e Jônatas Lima
 
 ## Nela será abordado
-- **Parte 1: O que é API**
+- **Parte 1: O que é API** <br>
 -- O que é API <br>
 -- Tipos de API <br>
 -- Documentação sobre APIs <br>
