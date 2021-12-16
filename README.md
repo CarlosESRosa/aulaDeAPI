@@ -30,7 +30,7 @@ Minha visão: Uma API é um endereço, quando você requere uma API você recebe
 O que é API -> https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces#apis
 APIs públicas -> https://github.com/public-apis/public-apis#anime
 
-**OBS:** É preciso conhecer a estrutura da API que pretende utilizar para conseguir manipular esses dados, existem alguns padrões de estruturas de dados, um dos formatos mais utilizados é o JSON, no curso da Trybe damos preferência a ele.
+**OBS:** É preciso conhecer a estrutura da API que pretende utilizar para conseguir manipular esses dados, existem alguns padrões de estruturas de dados, um dos formatos mais utilizados é o JSON, no curso da Trybe damos preferência a ele. <br><br>
 
 ## Do 0 ao pokémon na tela
 
@@ -46,7 +46,7 @@ APIs públicas -> https://github.com/public-apis/public-apis#anime
 ##### Ato 3 - Colocar o pokémon na tela
 - Mostrar que mesmo tendo pego a API corretamente,  ainda é necessário outro async await para usar o resultado
 - Capturar o HTML
-- substituir os dados do HTML pelos dados do pokemon
+- substituir os dados do HTML pelos dados do pokemon <br><br>
 
 ## Do 0 ao computador na tela
 
@@ -61,7 +61,7 @@ APIs públicas -> https://github.com/public-apis/public-apis#anime
 ##### Ato 3 - Colocar o primeiro computador do array na tela
 - Montar o html
 - Capturar o DOM
-- Montar o computador na tela titulo, preco, imagem
+- Montar o computador na tela titulo, preco, imagem <br><br>
 
 ## Studio Ghibli
 
