@@ -79,5 +79,5 @@
 - Essa função recebe como parâmetro os dados retornados pela API com todos os filmes
 - Percorre esses dados e para cada filme, monta ele no formato FilmCard e adiciona na tela 
 
-##### Ato 4 - Monta toda a estrutura de filmes antes de carregar a página
+#### Ato 4 - Monta toda a estrutura de filmes antes de carregar a página
 
