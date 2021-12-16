@@ -1,10 +1,10 @@
 # Esta é uma aula organizada por Carlos Rosa e Jônatas Lima
 
 ## Nela será abordado
-- **Parte 1: O que é API** <br>
--- O que é API <br>
--- Tipos de API <br>
--- Documentação sobre APIs <br>
+- **Parte 1: O que é API**
+  - O que é API 
+  - Tipos de API 
+  - Documentação sobre APIs
 - **Parte 2: API de pokemon utilizando a [PokéAPI](https://pokeapi.co/)** <br>
 -- Aprendendo a utilizar a API <br>
 -- Criar uma função para consumir a API <br>
