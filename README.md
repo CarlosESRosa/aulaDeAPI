@@ -27,7 +27,7 @@
 - **API Pública:** A API é disponibilizada para todos. Terceiros podem desenvolver aplicações que interajam com a sua API e isso pode se tornar uma fonte de inovação.
 
 ##### Documentação
-O que é API -> https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces#apis
+O que é API -> https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces#apis <br>
 APIs públicas -> https://github.com/public-apis/public-apis#anime
 
 **OBS:** É preciso conhecer a estrutura da API que pretende utilizar para conseguir manipular esses dados, existem alguns padrões de estruturas de dados, um dos formatos mais utilizados é o JSON, no curso da Trybe damos preferência a ele. <br><br>
