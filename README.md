@@ -21,7 +21,7 @@
  
 ## O que é API
 
-Minha visão: Uma API é um endereço, quando você requere uma API você recebe as informações que ela tem para te oferecer, uma API é um conjunto de dados. Existem 3 tipos de API: 
+**Nossa visão:** Uma API é um endereço, quando você requere uma API você recebe as informações que ela tem para te oferecer, uma API é um conjunto de dados. Existem 3 tipos de API: 
 - **API Privada:** A API é usada apenas internamente. Isso oferece às empresas um maior controle.
 - **API de Parceiros:** A API é compartilhada com parceiros de negócios específicos. Isso pode fornecer fluxos de receita adicionais sem comprometer a qualidade.
 - **API Pública:** A API é disponibilizada para todos. Terceiros podem desenvolver aplicações que interajam com a sua API e isso pode se tornar uma fonte de inovação.
