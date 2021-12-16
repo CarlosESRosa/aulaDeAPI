@@ -34,7 +34,7 @@
 
 ## Do 0 ao pokémon na tela
 
-#### Ato 1 - Aprender sobre como usar a API
+### Ato 1 - Aprender sobre como usar a API
 - API de pokémon
 - O que é um endpoint 
 - Estudar o objeto que a API retorna
