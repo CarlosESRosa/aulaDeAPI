@@ -1,4 +1,4 @@
-# Esta foi organizada por Carlos Rosa e Jônatas Lima
+# Esta aula foi organizada por Carlos Rosa e Jônatas Lima
 
 ## Nela será abordado
 - **Parte 1: O que é API**
